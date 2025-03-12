@@ -13,6 +13,7 @@ This repository contains the Power BI report **Sales.pbix**, which provides insi
 
 ## File Structure
 - **Sales.pbix**: The Power BI report file containing data visualizations and insights
+- **Additional files.zip**: Additional files needed to set up the dashboard
 
 ## Hosting & Access
 This report is published and hosted on **Power BI Service**, allowing users to view and interact with the dashboard online. Ensure you have the necessary permissions to access the report.
